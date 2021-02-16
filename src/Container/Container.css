@@ -21,7 +21,7 @@
   margin-left: auto;
 }
 .Container_title {
-  height: 75vh;
+  height: 50vh;
   text-align: left;
   width: 100%;
   display: flex;
@@ -35,6 +35,7 @@
   text-transform: uppercase;
   text-shadow: 2px 2px #575757;
   color: white;
+  margin-top: 5rem;
 }
 .Container_title h6 {
   text-shadow: 2px 2px #575757;
