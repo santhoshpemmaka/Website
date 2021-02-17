@@ -1,4 +1,4 @@
-.Education {
+.Skillset {
   background-color: #e7e7e7;
   text-align: left !important;
 }
@@ -26,9 +26,10 @@
 }
 .Text_centre h2 {
   font-size: 2rem;
+  font-family: arial !important;
 }
 
-.Row_block {
+.Row_skillblock {
   display: flex;
   margin-right: -15px;
   margin-left: -15px;
@@ -41,42 +42,36 @@
   padding-right: 15px;
   padding-left: 15px;
 }
-.Experience_text {
-  padding: 15px 0px 5px 0px;
+.Skillset_text {
+  padding: 25px 0px;
   position: relative;
 }
 
-.Experience_heading {
+.Skillset_heading {
   font-size: x-large;
   font-weight: bold;
   color: black;
-  cursor: pointer;
   font-family: arial !important;
 }
 
-.Experience_text p {
+.Skillset_text p {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
   font-family: arial !important;
 }
-.Experience_text hr {
+.Skillset_text hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
-.Experience_description {
-  margin-left: 10px;
-  margin-right: 10px;
-  padding: 10px;
-  border-radius: 10px;
-  background-color: lightgray;
-  width: 30%;
-  line-height: 1.5;
-  font-style: italic;
+ul {
+  color: #212529;
+  margin: 0px 0px 16px;
+  padding: 0px 0px 0px 40px;
+  font-family: arial !important;
 }
-.Experience_info {
-  padding: 15px 0px;
-  position: relative;
+li {
+  line-height: 2rem;
 }

@@ -2,6 +2,9 @@ import React from "react";
 import "./Container.css";
 import Education from "../Education/Education.js";
 import Experience from "../Experience/Experience";
+import Skillset from "../Skillset/Skillset.js";
+import Contact from "../Contact/Contact.js";
+import Footer from "../Footer/Footer.js";
 function Container() {
   return (
     <div className="Home">
@@ -15,7 +18,15 @@ function Container() {
       <Experience />
       <br />
       <br />
+      <Skillset />
+      <br />
+      <br />
       <Education />
+      <br />
+      <br />
+      <Contact />
+      <br />
+      <Footer />
     </div>
   );
 }

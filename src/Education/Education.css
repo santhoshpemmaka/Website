@@ -51,12 +51,14 @@
   font-size: x-large;
   font-weight: bold;
   color: black;
+  font-family: arial !important;
 }
 
 .Education_text p {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
+  font-family: arial !important;
 }
 .Education_text hr {
   margin-top: 1rem;

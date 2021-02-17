@@ -20,7 +20,8 @@ function App() {
             <Footer />
           </Route>
           <Route path="/about">
-            <h1>About</h1>
+            <Header />
+            <Home />
           </Route>
           <Route path="/">
             <Header />
