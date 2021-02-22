@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/santhoshpemmaka/Website/static/css/main.633a25bc.chunk.css",
-    "main.js": "/santhoshpemmaka/Website/static/js/main.a5f28c2d.chunk.js",
-    "main.js.map": "/santhoshpemmaka/Website/static/js/main.a5f28c2d.chunk.js.map",
-    "runtime-main.js": "/santhoshpemmaka/Website/static/js/runtime-main.ca2e9fa7.js",
-    "runtime-main.js.map": "/santhoshpemmaka/Website/static/js/runtime-main.ca2e9fa7.js.map",
-    "static/js/2.052b8f41.chunk.js": "/santhoshpemmaka/Website/static/js/2.052b8f41.chunk.js",
-    "static/js/2.052b8f41.chunk.js.map": "/santhoshpemmaka/Website/static/js/2.052b8f41.chunk.js.map",
-    "index.html": "/santhoshpemmaka/Website/index.html",
-    "static/css/main.633a25bc.chunk.css.map": "/santhoshpemmaka/Website/static/css/main.633a25bc.chunk.css.map",
-    "static/js/2.052b8f41.chunk.js.LICENSE.txt": "/santhoshpemmaka/Website/static/js/2.052b8f41.chunk.js.LICENSE.txt",
-    "static/media/contactPage.647887e7.jpg": "/santhoshpemmaka/Website/static/media/contactPage.647887e7.jpg",
-    "static/media/Container.css": "/santhoshpemmaka/Website/static/media/homePage.b37bbced.png"
+    "main.css": "/Website/static/css/main.4221ff4f.chunk.css",
+    "main.js": "/Website/static/js/main.a5f28c2d.chunk.js",
+    "main.js.map": "/Website/static/js/main.a5f28c2d.chunk.js.map",
+    "runtime-main.js": "/Website/static/js/runtime-main.a8509471.js",
+    "runtime-main.js.map": "/Website/static/js/runtime-main.a8509471.js.map",
+    "static/js/2.052b8f41.chunk.js": "/Website/static/js/2.052b8f41.chunk.js",
+    "static/js/2.052b8f41.chunk.js.map": "/Website/static/js/2.052b8f41.chunk.js.map",
+    "index.html": "/Website/index.html",
+    "static/css/main.4221ff4f.chunk.css.map": "/Website/static/css/main.4221ff4f.chunk.css.map",
+    "static/js/2.052b8f41.chunk.js.LICENSE.txt": "/Website/static/js/2.052b8f41.chunk.js.LICENSE.txt",
+    "static/media/contactPage.647887e7.jpg": "/Website/static/media/contactPage.647887e7.jpg",
+    "static/media/Container.css": "/Website/static/media/homePage.b37bbced.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca2e9fa7.js",
+    "static/js/runtime-main.a8509471.js",
     "static/js/2.052b8f41.chunk.js",
-    "static/css/main.633a25bc.chunk.css",
+    "static/css/main.4221ff4f.chunk.css",
     "static/js/main.a5f28c2d.chunk.js"
   ]
 }
