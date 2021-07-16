@@ -31,7 +31,6 @@ function Skillset() {
                     <li>React.js</li>
                     <li>TypeScript</li>
                     <li>Redux</li>
-                    <li>Material UI</li>
                   </ul>
                 </div>
               </div>
@@ -52,7 +51,6 @@ function Skillset() {
                     <li>Python</li>
                     <li>JavaScript</li>
                     <li>C</li>
-                    <li>Java</li>
                   </ul>
                 </div>
               </div>

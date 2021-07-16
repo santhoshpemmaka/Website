@@ -50,6 +50,38 @@ function Experience() {
                 </div>
               </div>
             </div>
+            <div className="Column_block">
+              <div className="Experience_info">
+                <div className="Experience_text">
+                  <div className="Experience_heading">
+                    <a
+                      style={{ textDecoration: "none", color: "black" }}
+                      href="https://www.ibm.com/in-en"
+                      target="_blank"
+                    >
+                      IBM
+                    </a>
+                  </div>
+                  <br />
+                  <p style={{ color: "black", fontSize: "16px" }}>Role</p>
+                  <br />
+                  <p style={{ fontSize: "large", color: "indigo" }}>
+                    Application Developer
+                  </p>
+                  <br />
+                  <p />
+                  <p style={{ fontSize: "large" }}>🇮🇳 Bangalore, India</p>
+                  <p style={{ color: "#999999" }}>Apr 2021 - Present</p>
+                  <hr style={{ width: "25%" }} />
+                </div>
+
+                <div className="Row_block">
+                  <pem className="Experience_description">
+                    I'm working in the Front End Developer.
+                  </pem>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
